@@ -1,0 +1,17 @@
+\t (00:26:34) allegro 17.2 P028 Windows SPB 64-bit Edition
+\t (00:26:34)     Journal start - Wed Jul 31 13:16:51 2019
+\t (00:26:34)         Host=KHW User=user Pid=6324 CPUs=4
+\t (00:26:34) CmdLine= C:\Cadence\SPB_17.2\tools\bin\allegro.exe
+\t (00:26:34) 
+   (00:26:34) Loading axlcore.cxt 
+\t (00:26:34) Opening existing design...
+\d (00:26:35) Design opened: C:/Users/user/Desktop/work/CHOPPING_WAVE_OSC/allegro/CHOPPING_WAVE_OSC.brd
+\i (00:26:35) trapsize 664
+\i (00:26:35) trapsize 679
+\i (00:26:35) trapsize 694
+\i (00:26:35) trapsize 678
+\i (00:26:36) generaledit 
+\i (00:26:43) QtSignal ColorVisibilityPane CVPViewDropdown CurrentIndexChanged "Film: Deign"
+\i (00:26:43) QtSignal ColorVisibilityPane CVPViewDropdown activated "Film: Deign"
+\i (00:28:01) exit 
+\t (00:28:01)     Journal end - Wed Jul 31 13:18:19 2019
